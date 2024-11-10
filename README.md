@@ -1,16 +1,28 @@
-<h1 align="center">Hi 👋, I'm Dvir Uliel</h1>
-<h3 align="center">A striving Computer Science student from Israel</h3>
+# Hi there! 👋 I'm Dvir Uliel
 
-- 💬 Ask me about **Python, Java, C, C++, C#, Matlab**
+### 🚀 About Me
 
-- 📫 How to reach me **dviruliel0@gmail.com**
+I'm a motivated 3rd-year Computer Science student with strong skills in software development and web technologies. Currently completing The Ultimate Fullstack Web Development Bootcamp, gaining hands-on experience with modern front-end and back-end technologies. I’m enthusiastic about working as a **Software Engineer** or **Full Stack Developer** in a collaborative, innovative team environment. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/dvir_uliel-2611a0215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/dvir_uliel-2611a0215" height="30" width="40" /></a>
-</p>
+### 🔧 Technical Skills
+- **Programming Languages**: Python, JavaScript, C, C++, Java, MATLAB
+- **Web Development**: HTML5, CSS3, JavaScript, React, Node.js
+- **Databases**: MySQL
+- **Tools**: Git, Linux
+- **Other**: Machine Learning, Object-Oriented Programming, Operating Systems
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🌟 Key Projects & Experience
+- **System Integration Engineer** at Rafael and Amarel (Feb 2019 - Jul 2022)
+  - Developed and implemented scripts, functions, and algorithms in Python to automate radar systems testing and data analysis.
+  - Integrated radar system updates, conducted field experiments, and provided data analysis to enhance system performance.
+  - Received a Certificate of Appreciation for significant contributions to a major radar system experiment.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dviruliel&show_icons=true&locale=en&layout=compact" alt="dviruliel" /></p>
+- **Academic Projects**:
+  - Completed hands-on projects as part of a comprehensive full-stack bootcamp, including **React**, **Node.js**, and **MongoDB** applications, focusing on best practices in software development and deployment.
+
+### 🎓 Education
+- **B.Sc in Computer Science** - Holon Institute of Technology (Expected 2025)  
+- **Fullstack Web Development Bootcamp** - Udemy (2024)
+
+### 📫 Let's Connect!
+- **LinkedIn**: [linkedin.com/in/dvir-uliel-2611a0215](https://www.linkedin.com/in/dvir-uliel-2611a0215)
